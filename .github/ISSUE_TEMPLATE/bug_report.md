@@ -6,7 +6,7 @@ labels: 'bug'
 assignees: ''
 
 ---
-<!-- You MUST fill out this template. We will close issues that don't include enough information to reproduce -->
+<!-- This information is NECESSARY. We will close issues that don't include enough details to reproduce -->
 #### Describe the bug
 <!-- a short description of the problem -->
 
