@@ -3,6 +3,8 @@ import toml  # type: ignore
 
 from dotenv import load_dotenv
 
+import opendevin._logging
+
 load_dotenv()
 
 DEFAULT_CONFIG = {
